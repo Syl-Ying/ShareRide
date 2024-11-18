@@ -1,4 +1,4 @@
-# Shujie Ying - Option 1
+# Sylvia Ying - Option 1
 
 ## How to Run the Program
 
